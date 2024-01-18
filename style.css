@@ -34,7 +34,7 @@ nav {
     padding-top: 2px;
 }
 main {
-    
+    height: 400px;
 }
 main h1 {
     color: rgb(129, 141, 179);
@@ -46,3 +46,4 @@ footer {
     text-align: center;
     padding-top: 20px;
     color:rgb(211, 218, 240);
+}
